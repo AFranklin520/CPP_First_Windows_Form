@@ -6,7 +6,7 @@ void Main()
 {
 	Application::EnableVisualStyles();
 	Application::SetCompatibleTextRenderingDefault(false);
-	FrankliniP5::MyForm form;
+	First_CPP_Form::MyForm form;
 	Application::Run(% form);
 }
 

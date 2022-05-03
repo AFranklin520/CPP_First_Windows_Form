@@ -1,3 +1,11 @@
+/*
+Anthony Franklin
+afranklin18@cnm.edu
+First C++ Form using Windows Forms
+11/18/2021
+AlaskanCruise.h
+*/
+
 #ifndef ALASKAN_CRUISE_H
 #define ALASKAN_CRUISE_H
 #include "Date.h"

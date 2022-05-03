@@ -1,9 +1,10 @@
-//Anthony Franklin
-//afranklin18@cnm.edu
-//FranklinP7
-//11/18/2021
-// 
-//AlaskanCruise.cpp
+/*
+Anthony Franklin
+afranklin18@cnm.edu
+First C++ Form using Windows Forms
+11/18/2021
+AlaskanCruise.cpp
+*/
 
 #include "AlaskanCruise.h"
 #include <fstream>

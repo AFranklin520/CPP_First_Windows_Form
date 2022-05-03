@@ -1,9 +1,16 @@
-#pragma once
+/*
+Anthony Franklin
+afranklin18@cnm.edu
+First C++ Form using Windows Forms
+11/18/2021
+AlaskanCruise.h
+*/
+
 #include "AlaskanCruise.h"
 #include "Date.h"
 #include "UtilityFunctions.h"
 
-namespace FrankliniP5 {
+namespace First_CPP_Form {
 
 	using namespace System;
 	using namespace System::ComponentModel;
