@@ -1,0 +1,11 @@
+werwer werwet reservation confirmation.
+Your reservation number is : 1
+Guests: 1
+Length of cruise: 7 days
+Booking Date: Booking Date: May 3, 2022
+Departure Date: Departure Date: June 1, 2022
+Excursions: 0
+Total Cost: $799.60
+THANK YOU FOR CHOOSING C++ CRUISE LINE!!
+Confirmation written to
+ the following file: werwer werwet0.txt
